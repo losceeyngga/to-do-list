@@ -59,7 +59,7 @@ SQLite comes with Python, so there is nothing to install for the database.
 2. Open `.env` and replace the placeholder:
 
    ```
-   DISCORD_TOKEN=MTU2ODEyMDE4ODYxNDg2OTEzNA.G-RvQg.RSl0ft6tUoIPdshast4wIJfUkJm0ZWUteLqZZI
+   DISCORD_TOKEN=
    ```
 3. *(Recommended)* set `GUILD_ID` to your server's ID so slash commands appear **instantly**:
    in Discord go to **Settings → Advanced → Developer Mode (on)**, then right-click your server
